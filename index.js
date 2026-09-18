@@ -1,6 +1,7 @@
-// app.js
+// index.js
+
 const express = require("express");
-const produtoRoutes = require("./routes/produto.routes");
+const produtoRoutes = require("./src/routes/produto.routes");
 
 const app = express();
 

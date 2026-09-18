@@ -1,4 +1,5 @@
 // controllers/produto.controller.js
+
 const service = require("../services/produto.service");
 
 exports.listar = (req, res) => {

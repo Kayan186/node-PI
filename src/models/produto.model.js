@@ -1,4 +1,5 @@
 // models/produto.model.js
+
 class Produto {
   constructor({ id, nome, preco }) {
     this.id = id;
